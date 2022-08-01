@@ -1,4 +1,4 @@
-# New-York-Times-API-[NY Times API Project (1).pdf](https://github.com/bm572/New-York-Times-API-/files/9235169/NY.Times.API.Project.1.pdf)
+https://docs.google.com/document/d/e/2PACX-1vRMulEi6FYeaNtickyYArC9Dkd94mNfgfBvd572EG-_6IWkOMCyY7_phRZA11KdV_uxETjya9mkoGv2/pub
 
 
 ALL ABOUT THIS PROJECTS; PICTURES, DESCRIPTIONS AND MORE!
